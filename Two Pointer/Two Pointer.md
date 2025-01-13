@@ -39,3 +39,9 @@
 <br><br>
 
 #### 내가 푼문제
+[📌 BJ11728](https://www.acmicpc.net/problem/11728)<br>
+[📌 BJ2003](https://www.acmicpc.net/problem/2003)<br>
+[📌 BJ3273](https://www.acmicpc.net/problem/3273)<br>
+[📌 BJ12891](https://www.acmicpc.net/problem/12891)<br>
+[📌 BJ2531](https://www.acmicpc.net/problem/2531)<br>
+[📌 BJ1806](https://www.acmicpc.net/problem/1806)
